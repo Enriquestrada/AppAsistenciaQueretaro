@@ -1,7 +1,7 @@
 {
-  "version": 5,
-  "versionName": "5.0.0",
+  "version": 6,
+  "versionName": "6.0.0",
   "updateRequired": true,
   "releaseNotes": "Lanzamiento inicial de Seguritech Asistencias.",
-  "apkUrl": "https://github.com/Enriquestrada/AppAsistenciaQueretaro/releases/download/App_Asistenacia_v5/app-debug.apk"
+  "apkUrl": "https://github.com/Enriquestrada/AppAsistenciaQueretaro/releases/download/App_Asistencia_v6/app-debug.apk"
 }
